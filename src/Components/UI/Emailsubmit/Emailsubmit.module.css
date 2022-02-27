@@ -1,0 +1,40 @@
+.email_submit_container
+{
+  display: flex;
+  margin:auto;
+  justify-content: center;
+}
+
+.iconwa
+{
+  font-size: 30px;
+  justify-self: end;
+  align-self: center;
+}
+
+.emailpick
+{
+  text-indent:20px;
+  font-size:20px;
+  width:45%;
+  border:none;
+  height:40px;
+  border-radius:20px;
+  outline:none;
+  -webkit-box-shadow: -6px 21px 51px -2px rgba(0,0,0,0.21);
+  -moz-box-shadow: -6px 21px 51px -2px rgba(0,0,0,0.21);
+  box-shadow: -6px 21px 51px -2px rgba(94,252,232,0.21);
+}
+   
+.email_submit_button
+{
+  cursor:pointer;
+  padding:8px 16px 8px 16px;
+  font-size: 25px;
+  background-image:linear-gradient( 130deg, #5EFCE8 10%, #736EFE 100%);
+  border:none;
+  border-radius:20px;
+  outline:none!important;
+}
+   
+.white{color:white;}

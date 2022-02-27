@@ -1,0 +1,7 @@
+.contentwrapper{
+    display: grid;
+    align-self: center;
+    justify-self: center;
+    grid-template-columns: 1fr;
+    grid-template-rows:auto;
+}

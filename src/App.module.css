@@ -1,0 +1,10 @@
+@font-face {
+  font-family:'montserrat';
+  src: local('montserrat'), url(./Resources/fonts/Montserrat-Medium.ttf) format('ttf');
+}
+
+.App {
+  text-align: center;
+  font-family: 'montserrat';
+  position: realtive;
+}
